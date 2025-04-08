@@ -1,16 +1,15 @@
 title: "Vinay Muralimohan - Cloud Architect Portfolio"
 email: "vinaymrao@gmail.com"
 description: "Portfolio showcasing my skills, certifications, projects and professional journey as a Cloud Architect."
-baseurl: ""          # For a user site, keep this empty
+baseurl: ""          # Leave empty for a user site
 url: "https://vinzydev.github.io"
-theme: jekyll-theme-hydeout
+theme: jekyll-theme-slate
 markdown: kramdown
 
 kramdown:
   input: GFM
 
-# (Optional) Customize Hydeout-specific settings if needed.
-# See the theme documentation at http://jekyllthemes.org/themes/hydeout/ for more options.
+# Navigation pages (the Slate theme uses these for header links)
 header_pages:
   - index.md
   - blog/index.md
