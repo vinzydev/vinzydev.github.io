@@ -1,0 +1,13 @@
+title: "Vinay Muralimohan - Cloud Architect Portfolio"
+email: "vinaymrao@gmail.com"
+description: "Portfolio showcasing my skills, certifications, projects and professional journey as a Cloud Architect."
+baseurl: ""          # For a user site, keep this empty
+url: "https://vinzydev.github.io"
+theme: jekyll-theme-hydeout
+markdown: kramdown
+
+# (Optional) Customize Hydeout-specific settings if needed.
+# See the theme documentation at http://jekyllthemes.org/themes/hydeout/ for more options.
+header_pages:
+  - index.md
+  - blog/index.md
